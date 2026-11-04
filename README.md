@@ -31,7 +31,7 @@
 <img width="250" height="700" alt="home screen" src="https://github.com/user-attachments/assets/88e7fc18-3574-451e-9995-1956d06094c6" />
 
 ### Learning Modules
-<img width="778" height="1600" alt="learning modules" src="https://github.com/user-attachments/assets/a2a207cb-b8d5-4ebc-9691-6b88e0c7085d" />
+<img width="200" height="1600" alt="learning modules" src="https://github.com/user-attachments/assets/a2a207cb-b8d5-4ebc-9691-6b88e0c7085d" />
 
 ### Learning Games
 <img width="778" height="1600" alt="GAMESjpeg" src="https://github.com/user-attachments/assets/c4f34787-c29c-43d9-99c7-b68016e08cdc" />
