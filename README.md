@@ -25,7 +25,7 @@
 ## Screenshots
 
 ### Who's Playing
-<img width="778" height="1600" alt="whose playing" src="https://github.com/user-attachments/assets/ef7a0441-79e9-48af-bafa-e04a5c7e93b9" />
+<img width="250" alt="whose playing" src="https://github.com/user-attachments/assets/ef7a0441-79e9-48af-bafa-e04a5c7e93b9" />
 
 ### Home
 <img width="778" height="1600" alt="home screen" src="https://github.com/user-attachments/assets/88e7fc18-3574-451e-9995-1956d06094c6" />
