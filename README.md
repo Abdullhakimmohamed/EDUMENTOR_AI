@@ -5,7 +5,6 @@
 
 > Academic defence project — Learn, Play & Grow.
 
----
 
 ## Features at a glance
 
