@@ -25,34 +25,29 @@
 
 ## Screenshots
 
-Add real device screenshots under `assets/screenshots/` (or `docs/screenshots/`), then update the paths below.
+### Who's Playing
+<img width="778" height="1600" alt="whose playing" src="https://github.com/user-attachments/assets/ef7a0441-79e9-48af-bafa-e04a5c7e93b9" />
 
-### 1. Home screen
-Child-friendly hub with modules, points, streak, and badges.
+### Home
+<img width="778" height="1600" alt="home screen" src="https://github.com/user-attachments/assets/88e7fc18-3574-451e-9995-1956d06094c6" />
 
-assets/home screen AM.jpeg
+### Learning Modules
+<img width="778" height="1600" alt="learning modules" src="https://github.com/user-attachments/assets/a2a207cb-b8d5-4ebc-9691-6b88e0c7085d" />
 
-### 2. Learning modules
-Example: Alphabet / Numbers / Animals lesson screens.
+### Learning Games
+<img width="778" height="1600" alt="GAMESjpeg" src="https://github.com/user-attachments/assets/c4f34787-c29c-43d9-99c7-b68016e08cdc" />
 
-![Learning Modules](assets/screenshots/learning-modules.png)
+### Ask Mentor
+<img width="778" height="1600" alt="mentor" src="https://github.com/user-attachments/assets/255b2f02-8e68-48cd-a23a-4021df191e4d" />
 
-### 3. Learning games
-Games home or one gameplay screen (e.g. Mini Shopkeeper).
+### Rewards
+<img width="778" height="1600" alt="rewards" src="https://github.com/user-attachments/assets/65d7f33c-af56-44a7-9664-77325e877d81" />
 
-![Learning Games](assets/screenshots/learning-games.png)
+### Child Profile
+<img width="778" height="1600" alt="child profile" src="https://github.com/user-attachments/assets/8b9a4fc0-587d-4044-aa6d-2886aeb830e8" />
 
-### 4. Ask Mentor
-Chat with ONLINE/OFFLINE status, mic button, and spoken replies.
-
-![AI Mentor](assets/screenshots/ai-mentor.png)
-
-### 5. Parent dashboard
-Lessons completed, average score, learning time, streak, recent activity.
-
-![Parent Dashboard](assets/screenshots/parent-dashboard.png)
-
-**Optional extras for a stronger GitHub page:** Who’s Playing, Rewards, Supabase Auth users, `child_profiles` table.
+### Parent Dashboard
+<img width="778" height="1600" alt="parent dashboard" src="https://github.com/user-attachments/assets/842a5f25-870a-4685-9ae3-879e95d955e6" />
 
 ---
 
@@ -82,3 +77,4 @@ Child (type or 🎤)
    → Reply shown + spoken with expo-speech
 
 If network/AI unavailable → local offlineMentor helper (rule-based, not a local LLM)
+```
