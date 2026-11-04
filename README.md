@@ -67,12 +67,19 @@ EduMentor AI addresses these challenges by providing an interactive educational 
 🎯 Project Objectives
 
 The main objectives of EduMentor AI are:
+
 To develop an interactive Android educational application for young children.
+
 To provide engaging educational lessons and activities.
+
 To integrate AI-assisted mentoring for educational support.
+
 To develop educational games that encourage active learning.
+
 To provide a secure parent dashboard for monitoring children's progress.
+
 To support offline access to core educational activities.
+
 To encourage consistent learning through rewards and achievements.
 
 
