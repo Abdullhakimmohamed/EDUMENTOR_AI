@@ -30,7 +30,7 @@ Add real device screenshots under `assets/screenshots/` (or `docs/screenshots/`)
 ### 1. Home screen
 Child-friendly hub with modules, points, streak, and badges.
 
-![Home Screen](assets/screenshots/home-screen.png)
+assets/home screen AM.jpeg
 
 ### 2. Learning modules
 Example: Alphabet / Numbers / Animals lesson screens.
